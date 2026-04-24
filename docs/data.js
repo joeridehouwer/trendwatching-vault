@@ -1,0 +1,1 @@
+window.VAULT_DATA = {"spots":[],"signals":[]};

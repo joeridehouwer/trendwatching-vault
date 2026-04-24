@@ -1,0 +1,17 @@
+# Obsidian — session files (user-specific, regenerated on open)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/graph.json
+
+# Obsidian — plugins (installed locally via plugin manager, not committed)
+.obsidian/plugins/
+
+# Claude Code — local-only settings
+.claude/settings.local.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
