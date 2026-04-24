@@ -18,8 +18,6 @@ No argument required: `/vault-setup`
    - **Geography**: Is there a geographic focus, or is it global?
    - **Audience**: Who will read the reports generated from this vault? (e.g. a specific client, role or team)
    - **Lens**: Is there a specific angle or filter to apply when capturing and synthesising? (e.g. sustainability, Gen Z behaviour, B2B adoption, emerging technology)
-   - **Report cadence**: How often do you expect to generate reports? (e.g. monthly, per project, ad hoc)
-   - **Presentation format**: What is your preferred output format for presentations? (pptx / html / pdf)
 
 3. Summarise the answers back to the user and ask for confirmation before writing
 

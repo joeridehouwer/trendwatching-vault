@@ -14,8 +14,6 @@ This is an Obsidian vault used to capture, organise and synthesise trend spots i
 
 **Lens:** [Any specific angle to apply when capturing and synthesising — e.g. a technology focus, sector perspective, or methodological constraint]
 
-**Report cadence:** [e.g. monthly, ad hoc, end of project]
-
 <!-- END EDITABLE SECTION -->
 
 
